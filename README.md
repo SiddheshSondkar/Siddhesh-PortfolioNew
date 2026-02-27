@@ -3,8 +3,7 @@
 A professional, high-performance portfolio website built with React, TypeScript, and Tailwind CSS. This site is designed to showcase database engineering expertise, project experience, and technical skills in a modern, responsive interface.
 
 ## 🚀 Live Demo
-[Insert your deployment URL here, e.g., https://siddhesh-sondkar.vercel.app]
-
+https://siddhesh-portfolio-gamma.vercel.app/
 ## ✨ Features
 - **Modern UI/UX**: Crafted with a clean, professional aesthetic using Tailwind CSS.
 - **Fully Responsive**: Optimized for Desktop, Tablet, and Mobile devices with a custom mobile navigation menu.
